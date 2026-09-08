@@ -1,0 +1,12 @@
+# DO not push s3 to github
+s3/
+
+# Virtual Environment
+git_dvc/
+
+# Do not push models
+models/
+
+*.dvc/
+
+data/
